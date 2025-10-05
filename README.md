@@ -6,6 +6,6 @@ A passionate **Computer Science** student at ENSI, Tunisia, diving into **AI**, 
 🌱 Learning **Deep Learning**, **LLMs**, and **blockchain technologies**.  
 💬 Ask me about **Python**, **React** or **AI/ML**!  
 
-📫 Connect: haithamkhachlou@gmail.com | linkedin.com/in/haithem-khachlouf-043913292/
+📫 Connect: haithamkhachlou@gmail.com | [linkedin.com/in/haithem-khachlouf-043913292/](https://www.linkedin.com/in/haithem-khachlouf-043913292/)
 
 *Let's code the future!* 🚀
